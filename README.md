@@ -86,3 +86,4 @@ lib/                           access rules, sessions, password, storage, format
 prisma/schema.prisma, seed.ts  database
 middleware.ts                  sends signed-out visitors to /login (keeps the project link)
 ```
+# ske-projects
